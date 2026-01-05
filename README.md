@@ -1,7 +1,7 @@
 # 🔢 Counter App
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
 </p>
 
 A simple and interactive **Counter Application** built using **React.js**.  
